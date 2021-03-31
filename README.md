@@ -1,4 +1,12 @@
-# Intro to SQL - Commands Reference
+# Intro to SQL
+
+# Resources
+
+Slides are available here: https://docs.google.com/presentation/d/1Sq1xGY9UeIBs_G5_34av69-_wuBqzianSNPI2s6asCg/edit?usp=sharing
+
+DB Browser for SQLite is available here: https://sqlitebrowser.org/
+
+# Commands Reference
 
 ## Table Commands
 
