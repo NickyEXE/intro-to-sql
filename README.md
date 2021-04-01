@@ -65,3 +65,11 @@ Having: Uses aggregate functions to formulate conditions
 Order: Allows us to sort our data by an attribute in ASC and DESC order
 Limit: Allows us to query only an x number of data
 AS: Allows us to alias selected attributes by another name
+
+# Day Two Lecture Deliverables
+
+- Show list of songs with associated genres
+- Show count of songs in each genre, ordered by count
+- Find how many songs are in each genre with more than 200 songs
+- Show each track name with their artist name
+- Show a count of tracks by each artist
