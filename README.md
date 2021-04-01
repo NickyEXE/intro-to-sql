@@ -52,3 +52,16 @@ Delete
   -- DELETE FROM [tableName] WHERE [columnName] = [value];
   DELETE FROM states WHERE name = “New York”;
 ```
+
+## Vocabulary
+
+Select: selects attributes from a table(s)
+From references primary table we are querying
+Joins: adds a related table to our query
+On: How we set our relationship (primary key == foreign key)
+Where: Uses conditions to query data (non aggregate)
+Group: Allows us to base our query on groups of data
+Having: Uses aggregate functions to formulate conditions
+Order: Allows us to sort our data by an attribute in ASC and DESC order
+Limit: Allows us to query only an x number of data
+AS: Allows us to alias selected attributes by another name
