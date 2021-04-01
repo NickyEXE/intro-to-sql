@@ -53,10 +53,15 @@ Delete
   DELETE FROM states WHERE name = “New York”;
 ```
 
+### Music DB
+
+Genre -< Track >- Album >- Artist
+
+
 ## Vocabulary
 
 Select: selects attributes from a table(s)
-From references primary table we are querying
+From: references primary table we are querying
 Joins: adds a related table to our query
 On: How we set our relationship (primary key == foreign key)
 Where: Uses conditions to query data (non aggregate)
